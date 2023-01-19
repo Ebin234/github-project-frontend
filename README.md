@@ -17,7 +17,7 @@ This will  install all the dependencies of this project
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000/:username]() to view it in your browser and also you need to put a github username in the end of the link.\
+Open [http://localhost:3000/:username]() to view it in your browser and also you need to change the username as a valid github username at the end of the link.\
 example : [http://localhost:3000/ebin234](http://localhost:3000/ebin234)
 
 The page will reload when you make changes.\
