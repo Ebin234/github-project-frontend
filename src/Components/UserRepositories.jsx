@@ -132,9 +132,11 @@ grid-template-columns: repeat(2,1fr);
     color: #2672b5;
     border-right: none;
     padding: 10px;
+    cursor: pointer;
   }
   .number:last-child{
     border: 1px solid #d7d9d8;
+    cursor: pointer;
   }
 }
 .buttons{
@@ -151,6 +153,7 @@ grid-template-columns: repeat(2,1fr);
     padding: 10px 30px;
     display: flex;
     gap: 5px;
+    cursor: pointer;
     p{
       margin: 1px;
     }
