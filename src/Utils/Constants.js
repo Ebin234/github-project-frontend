@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:3500/api/user"
+export const BASE_URL = "https://github-profile-backend.onrender.com/api/user"
